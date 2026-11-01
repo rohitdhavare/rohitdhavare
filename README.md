@@ -1,5 +1,5 @@
 <!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Rohit%20Dhavare&fontSize=62&fontAlignY=36&animation=fadeIn&desc=Java%20Full%20Stack%20Developer&descSize=22&descAlignY=58" alt="Rohit Dhavare header"/>
+<img width="100%" src="./assets/header.svg" alt="Rohit Dhavare - Java Full Stack Developer"/>
 
 <!-- Typing animation -->
 <p align="center">
@@ -57,16 +57,12 @@ public class Rohit {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rohitdhavare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdhavare&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="195" src="./assets/stats.svg" alt="GitHub stats"/>
+  <img height="195" src="./assets/languages.svg" alt="Top languages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rohitdhavare&theme=tokyonight&hide_border=true" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdhavare&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
 </p>
 
 ## 🐍 Contribution Snake
@@ -78,4 +74,4 @@ public class Rohit {
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="footer"/>
+<img width="100%" src="./assets/header.svg" alt=""/>
