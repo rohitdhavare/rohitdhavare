@@ -1,21 +1,81 @@
-![logo](https://github.com/rohitdhavare/rohitdhavare/blob/main/Navy%20And%20White%20Geomteric%20Technology%20Linkedln%20Banner.png)
-<h1 align="center">Hi 👋, I'm Rohit Dhavare</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitdhavare&label=Profile%20views&color=0e75b6&style=flat" alt="rohitdhavare" /> </p>
+<!-- Animated header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Rohit%20Dhavare&fontSize=62&fontAlignY=36&animation=fadeIn&desc=Java%20Full%20Stack%20Developer&descSize=22&descAlignY=58" alt="Rohit Dhavare header"/>
 
-- 📫 How to reach me **rohitdhavare754@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohit-dhavare-60b851296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-dhavare-60b851296" height="30" width="40" /></a>
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=640&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Building+scalable+full-stack+apps;Open+to+entry-level+SDE+roles+%F0%9F%9A%80" alt="Typing SVG"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/rohit-dhavare-60b851296"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rohitdhavare754@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=rohitdhavare&label=Profile%20views&color=00d4ff&style=for-the-badge"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitdhavare&show_icons=true&locale=en&layout=compact" alt="rohitdhavare" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitdhavare&show_icons=true&locale=en" alt="rohitdhavare" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitdhavare&" alt="rohitdhavare" /></p>
+```java
+public class Rohit {
+    String role    = "Java Full Stack Developer";
+    String degree  = "B.Tech Computer Science (2026)";
+    String based   = "Solapur, Maharashtra, India";
+    String[] stack = {"Java", "Spring Boot", "REST APIs", "MySQL", "React.js", "JWT", "Docker"};
+    boolean openToWork = true;
+}
+```
+
+- 🔭 Building full-stack apps with **Spring Boot + MySQL + React**
+- 💼 Interned as a **Java Developer** at Word Lane Tech and **Web Developer** at Revolution IT Solutions
+- 🧩 Sharpening DSA and problem solving on **LeetCode** and **HackerRank**
+- 📫 Reach me at **rohitdhavare754@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,docker,git,github,postman,linux,python,c,cpp&perline=8" alt="Tech stack"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🌾 **[Agriculture E-Commerce Portal](https://github.com/rohitdhavare/REPO-NAME)** | Online marketplace with login, product catalog, cart and payment flow | `Java` `Spring Boot` `MySQL` `REST` |
+| 📝 **[Student Feedback System](https://github.com/rohitdhavare/REPO-NAME)** | Role-based (Admin / Student / Faculty) feedback collection with analytics | `Spring MVC` `Hibernate` `MySQL` |
+| 💸 **[Expense Tracker](https://github.com/rohitdhavare/REPO-NAME)** | Expense categories, budget alerts and spending charts | `Java` `Spring Boot` `JPA` `MySQL` |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rohitdhavare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdhavare&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rohitdhavare&theme=tokyonight&hide_border=true" alt="Streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdhavare&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitdhavare/rohitdhavare/output/github-snake-dark.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/rohitdhavare/rohitdhavare/output/github-snake.svg"/>
+  </picture>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="footer"/>
